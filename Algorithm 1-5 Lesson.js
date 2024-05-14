@@ -26,3 +26,7 @@ const person = {
 
 // Arrays
 const odd = [1, 3, 5, 7, 9];
+
+// Push / Pop
+// Shift / Unshift / Concat / Slice / Splice
+// forEach / Map / Filter / Reduce
